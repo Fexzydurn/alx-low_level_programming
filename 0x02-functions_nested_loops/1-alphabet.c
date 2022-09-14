@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - for alphabet
+ * print_alphabet - for alphabet
  *
  * description - shows alphabet of letters
  *
