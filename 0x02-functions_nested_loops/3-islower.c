@@ -8,10 +8,12 @@
  *
  * Description - prints all lower case letters
  *
- * return: always 0 (success)
+ * Return: Always (0). (success)
  */
 
 int _islower(int c)
 {
 	return (c >= 'a' && c <= 'z');
+
+	return (0);
 }
